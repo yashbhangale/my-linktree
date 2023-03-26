@@ -54,19 +54,19 @@
       <!-- Links section 1. Replace the # inside of the "" with your links. -->
       <div class="links-container">
       <div class="icons w3-padding">
-          <a href="https://github.com" target="_blank">
+          <a href="https://github/yashbhangale" target="_blank">
             <i data-feather="github" />
           </a>
-          <a href="#" target="_blank">
+          <a href="https://in.linkedin.com/in/yashbhangale" target="_blank">
             <i data-feather="linkedin" />
           </a>
-          <a href="#" target="_blank">
+          <a href="https://www.youtube.com/@geeksdirectory4469" target="_blank">
             <i data-feather="youtube" />
           </a>
-          <a href="#" target="_blank">
+          <a href="https://twitter.com/yashbhangale99" target="_blank">
             <i data-feather="twitter" />
           </a>
-          <a href="#" target="_blank">
+          <a href="https://yashbhangale.github.io" target="_blank">
             <i data-feather="link-2" />
           </a>
           <style>
@@ -87,13 +87,13 @@
         >
         <br />
         <a
-          href="#"
+          href="https://yashbhangale.hashnode.dev/"
           class="w3-button w3-round w3-theme-d3 w3-border link"
           target="_blank">MY BLOG</a
         >
         <br />
         <a
-          href="#"
+          href="https://github/yashbhangale"
           class="w3-button w3-round w3-theme-d3 w3-border link"
           target="_blank">Github</a
         >
@@ -115,7 +115,7 @@
             />
             <script>
               function openMailApp() {
-                window.location.href = "mailto:youremail@example.com";
+                window.location.href = "mailto:yashbhangale9@gmail.com";
               }
             </script>
 
